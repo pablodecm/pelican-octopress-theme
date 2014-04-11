@@ -1,4 +1,4 @@
-Octopress Theme for Pelican
+Custom Octopress Theme for Pelican
 ===========================
 
 This is a theme for `Pelican`_ that looks like `Octopress`_ default theme. I wrote this
